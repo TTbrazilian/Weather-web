@@ -65,32 +65,13 @@ Acesse em `http://localhost:5173`.
 ### Página de Clima
 ![Clima da cidade](./prints/city.png)
 
----
-
-## 📁 Estrutura de Diretórios
-
-```
-react-weather-app/
-├── public/
-├── src/
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   └── CityDetail.jsx
-│   ├── services/
-│   │   └── weatherService.js
-│   ├── App.jsx
-│   └── main.jsx
-├── .env.example
-├── package.json
-└── vite.config.js
-```
 
 ---
 
 ## 🧑‍💻 Autor
 
-- Nome: **Seu Nome Aqui**
-- Curso: Engenharia de Software — 4º semestre
+- Nome: **Túlio Teixeira Silva**
+- Curso: Engenharia de Software — 5º semestre
 - Trabalho prático para disciplina de Desenvolvimento Web
 
 ---
