@@ -57,12 +57,6 @@ Acesse em `http://localhost:5173`.
 
 ---
 
-## 🌐 Link da Aplicação Online
-
-> 🔗 [Acessar aplicação](https://seu-deploy.vercel.app)
-
----
-
 ## 🖼 Prints da aplicação
 
 ### Página Inicial
